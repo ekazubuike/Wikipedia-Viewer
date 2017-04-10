@@ -1,0 +1,31 @@
+.pica {
+  font-family: 'IM Fell DW Pica', serif;
+  color: #E4B363;
+}
+
+.vertical-center {
+  min-height: 100%;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
+h1, h3 {
+  text-align: center;
+}
+
+a:link {
+  color: #E4B363;
+}
+a:hover {
+  color: #EF6461;
+  text-decoration: none;
+}
+a:visited {
+  color: #FFFFFA;
+}
+
+.results {
+  
+}
+
